@@ -8,4 +8,8 @@ You can get the data from [here](https://76.223.36.25/open-access/free-dataset-n
 
 # Evaluation metric
 
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation)
+
 # Web Application
+
+Here(https://huggingface.co/spaces/Messigoat/covid19_news_summarization) is the link to Web Application deployed on HuggingFace Space using gradio.
