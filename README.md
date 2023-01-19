@@ -12,4 +12,4 @@ ROUGE (Recall-Oriented Understudy for Gisting Evaluation)
 
 # Web Application
 
-[Here] (https://huggingface.co/spaces/Messigoat/covid19_news_summarization) is the link to Web Application deployed on HuggingFace Space using gradio.
+[Here](https://huggingface.co/spaces/Messigoat/covid19_news_summarization) is the link to Web Application deployed on HuggingFace Space using gradio.
