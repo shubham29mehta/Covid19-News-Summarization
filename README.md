@@ -8,13 +8,8 @@ You can get the data from [here](https://76.223.36.25/open-access/free-dataset-n
 
 # Evaluation metrics
 
-Following are the results obtained using finetuned biobert. Fine tuned Biobert achieved 2.5% better F1 score as compared to finetuned bert (base)
-
-Precision: 83 %
-Recall: 89.7 %
-F1: 86.3 %
-Accuracy: 98.3 %
+ROUGE score
 
 # Web Application
 
-[Here](https://huggingface.co/spaces/shubham555/BioBERT_NER_Disease_Identification) is the link to Web Application deployed on HuggingFace Space using gradio.
+[Here](https://huggingface.co/spaces/Messigoat/covid19_news_summarization) is the link to Web Application deployed on HuggingFace Space using gradio.
